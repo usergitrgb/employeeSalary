@@ -1,0 +1,17 @@
+D:\Proyectos\MvcEmployees\MvcEmployees\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Proyectos\MvcEmployees\MvcEmployees\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Proyectos\MvcEmployees\MvcEmployees\DAL\bin\Debug\DAL.dll.config
+D:\Proyectos\MvcEmployees\MvcEmployees\DAL\bin\Debug\DAL.dll
+D:\Proyectos\MvcEmployees\MvcEmployees\DAL\bin\Debug\DAL.pdb
+D:\Proyectos\MvcEmployees\MvcEmployees\DAL\bin\Debug\DTO.dll
+D:\Proyectos\MvcEmployees\MvcEmployees\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\MvcEmployees\MvcEmployees\DAL\bin\Debug\System.Net.Http.Formatting.dll
+D:\Proyectos\MvcEmployees\MvcEmployees\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Proyectos\MvcEmployees\MvcEmployees\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Proyectos\MvcEmployees\MvcEmployees\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Proyectos\MvcEmployees\MvcEmployees\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Proyectos\MvcEmployees\MvcEmployees\DAL\bin\Debug\DTO.pdb
+D:\Proyectos\MvcEmployees\MvcEmployees\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos\MvcEmployees\MvcEmployees\DAL\bin\Debug\System.Net.Http.Formatting.xml
+D:\Proyectos\MvcEmployees\MvcEmployees\DAL\obj\Debug\DAL.dll
+D:\Proyectos\MvcEmployees\MvcEmployees\DAL\obj\Debug\DAL.pdb
