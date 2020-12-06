@@ -13,7 +13,10 @@ D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\Microsoft.ApplicationIns
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\Microsoft.Web.Infrastructure.dll
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\Newtonsoft.Json.dll
+D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Net.Http.Formatting.dll
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Web.Helpers.dll
+D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Web.Http.dll
+D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Web.Http.WebHost.dll
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Web.Mvc.dll
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Web.Optimization.dll
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Web.Razor.dll
@@ -22,7 +25,11 @@ D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Web.WebPages.dll
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Web.WebPages.Razor.dll
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\WebGrease.dll
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\Newtonsoft.Json.xml
+D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Net.Http.Formatting.xml
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Web.Helpers.xml
+D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Web.Http.xml
+D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Web.Http.WebHost.xml
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Web.Mvc.xml
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Web.Optimization.xml
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Web.Razor.xml
@@ -30,7 +37,6 @@ D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Web.WebPages.xml
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Web.WebPages.Deployment.xml
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\System.Web.WebPages.Razor.xml
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\Antlr3.Runtime.pdb
-D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\Newtonsoft.Json.xml
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\Microsoft.ApplicationInsights.xml
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\Microsoft.AI.DependencyCollector.xml
 D:\Proyectos\MvcEmployees\MvcEmployees\MvcEmployees\bin\Microsoft.AI.ServerTelemetryChannel.xml

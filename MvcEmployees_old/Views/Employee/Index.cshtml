@@ -1,0 +1,85 @@
+﻿@model IEnumerable<DTO.DTOEmployee>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Employee List</h2>
+<br />
+
+
+
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+
+    <div class="form-row">
+        <div class="col">
+            @Html.TextBox("Search", null, new { @class = "form-control", placeholder = "Search Employee" })
+        </div>
+        <div class="col">
+            <input type="submit" value="Get Employee" class="form-control btn btn-outline-primary" style="width:250px" />
+        </div>
+    </div>
+    
+}
+
+<br />
+<hr />
+
+@Html.Raw(ViewBag.MsjVacio)
+
+@if(Model.Count() > 0)
+{ 
+<table class="table table-striped table-hover table-sm">
+    <tr>
+        <th>
+            <label>Name</label>
+        </th>
+        <th>
+            <label>Contract</label>
+        </th>
+        <th>
+            <label>Role</label>
+        </th>
+        <th class="text-right">
+            <label>Hourly Salary</label>
+        </th>
+        <th class="text-right">
+            <label>Monthly Salary</label>
+        </th>
+        <th class="text-right">
+            <label>AnnualSalary</label>
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.contractTypeName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.roleName)
+        </td>
+        <td class="text-right">
+            @Html.DisplayFor(modelItem => item.hourlySalary)
+        </td>
+        <td class="text-right">
+            @Html.DisplayFor(modelItem => item.monthlySalary)
+        </td>
+        <td class="text-right">
+            @Html.DisplayFor(modelItem => item.annualSalary)
+        </td>
+
+    </tr>
+    }
+
+</table>
+}
